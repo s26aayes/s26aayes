@@ -1,7 +1,7 @@
 ## Hi Ayesha there 👋
 
 
-I'm a Master's student in Economics with a strong interest in data analysis, Python programming, and business intelligence tools like Power BI and Excel. I enjoy solving real-world problems with data and am passionate about continuous learning and improving my technical skills.
+I'm a Master's student in Economics at Universität Bonn with a strong interest in data analysis, Python programming, and business intelligence tools like Power BI and Excel. I enjoy solving real-world problems with data and am passionate about continuous learning and improving my technical skills.
 
 💡 What I’m Currently Working On 📈 Data analytics projects using Python, Power BI, and Excel
 
