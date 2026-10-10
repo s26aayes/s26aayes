@@ -7,9 +7,13 @@ I enjoy turning raw data into structured analyses, reproducible workflows, dashb
 ## 🔧 Technical Skills
 
 **Programming & Data:** Python, SQL, Pandas, Jupyter 
+
 **Analytics & BI:** Power BI, Excel, Power Query, Pivot Tables, Dashboards  
+
 **CRM & Automation:** Salesforce CRM, Flow Builder, Customer Segmentation, Campaign Management, CRM Data Quality 
+
 **Econometrics:** OLS, Logit, Probit, Robust Standard Errors  
+
 **Tools:** Git, GitHub, VS Code, PowerPoint
 
 ---
