@@ -97,5 +97,5 @@ An interactive customer-level order analytics dashboard built using **Excel and 
 
 ## 📫 Let's Connect
 
-📧 **Email:** [s26aayes@uni-bonn.de](mailto:s26aayes@uni-bonn.de)  
+📧 **Email:** [s26aayes@uni-bonn.de](mailto:ayeshashoukat280@gmail.com)  
 💼 **LinkedIn:** [Ayesha Ayesha](https://www.linkedin.com/in/ayesha-ayesha-/)
