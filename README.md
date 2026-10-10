@@ -72,6 +72,18 @@ An interactive **Power BI dashboard** designed to analyse healthcare waiting-lis
 🔗 [View Repository](https://github.com/s26aayes/Healthcare_Dashboard_Development_Process_PowerBI)
 
 ---
+## 🧾 Accounting & Internal Controls Automation — Excel & Power Query
+
+An automated accounting control and exception-monitoring framework built with **Excel and Power Query** using synthetic SAP-style financial data.
+
+### Highlights
+- Automated debit/credit reconciliation, GL account validation, cost-center checks, duplicate detection, and segregation-of-duties controls
+- Built refreshable exception reports and a master control dashboard
+- Added period-end and high-value transaction review logic
+- Implemented simplified IFRS-oriented scenarios for **IAS 16, IFRS 15, IAS 2, and IAS 37**
+- Designed the workflow so controls and dashboard outputs refresh automatically when source data changes
+
+🔗 [View Repository](https://github.com/s26aayes/accounting-internal-controls-automation)
 
 ## 📦 Customer Order Analytics Dashboard — Microsoft Excel
 
