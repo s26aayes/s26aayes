@@ -2,15 +2,16 @@
 
 I'm a Master's student in **Economics at the University of Bonn** with a strong interest in **data analytics, empirical economics, business intelligence, CRM systems, and automation**.
 
-I enjoy turning raw data into structured analyses, reproducible workflows, dashboards, and business-oriented insights using tools such as **Python, SQL, Salesforce, Power BI, and Excel**.
+I enjoy turning raw data into structured analyses, reproducible workflows, dashboards, and business-oriented insights using **Python, SQL, Salesforce, Power BI, and Excel**.
 
 ## 🔧 Technical Skills
 
-**Programming & Data:** Python, SQL, Pandas, Jupyter  
+**Programming & Data:** Python, SQL, Pandas, Jupyter 
 **Analytics & BI:** Power BI, Excel, Power Query, Pivot Tables, Dashboards  
 **CRM & Automation:** Salesforce CRM, Flow Builder, Customer Segmentation, Campaign Management, CRM Data Quality 
 **Econometrics:** OLS, Logit, Probit, Robust Standard Errors  
 **Tools:** Git, GitHub, VS Code, PowerPoint
+
 ---
 
 # 📂 Featured Projects
@@ -25,10 +26,10 @@ The project automates the complete analytical workflow:
 
 ### Highlights
 - Programmatic data collection from the World Bank API
-- Reproducible and modular research workflow
 - OLS estimation with robust standard errors
 - Logit and Probit models
 - Automated summary statistics, regression tables, and figures
+- Modular and reproducible research workflow
 - Dependency management using Pixi
 
 🔗 [View Repository](https://github.com/s26aayes/Repro_econ_pipeline_FP2026)
@@ -40,12 +41,12 @@ The project automates the complete analytical workflow:
 An end-to-end **Salesforce CRM project** simulating customer and lead management in a European automotive environment.
 
 ### Highlights
-- Configured custom Salesforce Lead fields for vehicle interest, market, customer journey stage, test-drive requests, dealer preferences, and interaction dates
+- Configured custom Salesforce Lead fields for market, vehicle interest, customer journey stage, test-drive requests, preferred dealer, and interaction dates
 - Imported and managed **300 synthetic automotive leads**
-- Performed CRM data-quality checks for missing values, stale records, duplicates, and import errors
-- Created customer segments for targeted campaigns
-- Built Salesforce reports and CRM performance dashboards
-- Created and tracked a targeted CX-5 test-drive campaign
+- Performed CRM data-quality checks for missing values, duplicates, stale records, and import errors
+- Built customer segments for targeted CRM campaigns
+- Created Salesforce reports and an interactive CRM performance dashboard
+- Created and tracked a targeted **CX-5 Germany Test Drive Campaign**
 - Built a **Record-Triggered Salesforce Flow** that automatically creates a follow-up task when a customer requests a test drive
 
 🔗 [View Repository](https://github.com/s26aayes/salesforce-automotive-crm)
@@ -60,9 +61,9 @@ An interactive **Power BI dashboard** designed to analyse healthcare waiting-lis
 - Analysed inpatient, outpatient, and day-case waitlist data
 - Built KPI cards comparing current and previous-period waitlists
 - Created interactive filters for specialty, case type, archive date, and wait-time metrics
-- Analysed wait-time distribution across time bands
+- Analysed wait-time distribution across different time bands
 - Visualised historical trends and medical-specialty performance
-- Designed the dashboard to identify bottlenecks and operational trends
+- Identified operational trends, service demand, and potential bottlenecks
 
 🔗 [View Repository](https://github.com/s26aayes/Healthcare_Dashboard_Development_Process_PowerBI)
 
@@ -86,15 +87,11 @@ An interactive customer-level order analytics dashboard built using **Excel and 
 
 ## 🌱 Currently Developing
 
-- Advanced SQL for analytics and reporting
-- Applied econometrics and reproducible research workflows
-- Salesforce CRM and customer analytics
-- Python-based data analysis and automation
+**Advanced SQL • Applied Econometrics • Salesforce CRM • Python Automation • Data Analytics**
 
 ---
 
 ## 📫 Let's Connect
 
-📧 **Email:** [s26aayes@uni-bonn.de](mailto:s26aayes@uni-bonn.de)
-
+📧 **Email:** [s26aayes@uni-bonn.de](mailto:s26aayes@uni-bonn.de)  
 💼 **LinkedIn:** [Ayesha Ayesha](https://www.linkedin.com/in/ayesha-ayesha-/)
